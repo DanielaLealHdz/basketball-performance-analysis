@@ -1,0 +1,12 @@
+Jugador,Jump Height (Imp-Mom) [cm]  (Escala 1–10),Concentric Duration [ms]  (Escala 1–10),Braking Phase Duration [ms]  (Escala 1–10),Concentric Peak Force [N]  (Escala 1–10),Force at Zero Velocity [N]  (Escala 1–10),RSI-modified [m/s]  (Escala 1–10),Eccentric Deceleration Impulse [N s]  (Escala 1–10)
+Player_07,5.9,6.7,5.1,9.2,9.2,5.9,10
+Player_10,8.4,1.8,8.4,4.3,5.1,8.4,2.6
+Player_09,1.8,10,10,2.6,1.8,1.8,6.7
+Player_11 ,6.7,3.5,6.7,6.7,7.5,4.3,4.7
+Player_01,2.6,7.5,5.1,5.1,5.9,3,3.5
+Player_06,7.5,8.4,7.5,7.5,8.4,6.7,9.2
+Player_04,5.1,2.6,1.8,5.9,4.3,7.5,4.7
+Player_05,3.5,4.3,3.5,8.4,6.7,5.1,5.9
+Player_08,10,9.2,9.2,3.5,2.6,9.2,8.4
+Player_02,4.3,5.9,2.6,10,10,3,7.5
+Player_03,9.2,5.1,5.1,1.8,3.5,10,1.8
